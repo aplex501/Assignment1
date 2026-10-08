@@ -1,0 +1,5 @@
+/home/killua/Assignment1/Assignment1/bin/Release/net10.0/publish/Assignment1
+/home/killua/Assignment1/Assignment1/bin/Release/net10.0/publish/Assignment1.dll
+/home/killua/Assignment1/Assignment1/bin/Release/net10.0/publish/Assignment1.deps.json
+/home/killua/Assignment1/Assignment1/bin/Release/net10.0/publish/Assignment1.runtimeconfig.json
+/home/killua/Assignment1/Assignment1/bin/Release/net10.0/publish/Assignment1.pdb
